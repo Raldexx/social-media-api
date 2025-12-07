@@ -247,9 +247,6 @@ Currently using SQLite for development. To switch to PostgreSQL:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License 📄
-
-This project is licensed under the MIT License.
 
 ---
 
@@ -502,6 +499,3 @@ uvicorn app.main:app --workers 4
 
 Katkılar memnuniyetle karşılanır! Lütfen Pull Request göndermekten çekinmeyin.
 
-## Lisans 📄
-
-Bu proje MIT Lisansı altında lisanslanmıştır.
